@@ -1,4 +1,4 @@
-#Version update to 1.0.1
+# Version update to 1.0.1
 Major changes:
 App now supports MATLAB 2022b
 Updated citation list
